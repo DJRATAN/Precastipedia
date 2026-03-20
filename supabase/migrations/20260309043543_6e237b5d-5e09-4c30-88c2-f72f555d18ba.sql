@@ -1,0 +1,1 @@
+UPDATE user_analyses SET status = 'failed' WHERE status = 'analyzing';
