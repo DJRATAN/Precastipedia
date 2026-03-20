@@ -20,7 +20,7 @@ const Navbar = () => {
     <header className="sticky top-0 z-50 border-b bg-card/95 backdrop-blur supports-[backdrop-filter]:bg-card/80">
       <div className="container flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center gap-2">
-          <img src={logo} alt="Precastipedia" className="h-8 w-auto" />
+          <img src={logo} alt="Precastipedia" className="h-16 w-auto" />
         </Link>
 
         {/* Desktop nav */}
