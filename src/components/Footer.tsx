@@ -8,11 +8,8 @@ const Footer = () => (
         {/* Brand */}
         <div className="col-span-2 md:col-span-1">
           <div className="mb-3">
-            <img src={logo} alt="Precastipedia" className="h-8 w-auto" />
+            <img src={logo} alt="Precastipedia" className="h-24 w-auto" />
           </div>
-          <p className="text-sm text-muted-foreground">
-            Never ending precast knowledge.
-          </p>
         </div>
 
         {/* About */}
